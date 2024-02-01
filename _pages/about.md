@@ -12,6 +12,9 @@ Hello, my name is __Jiao Qianji(焦乾稷)__ and I'm currently in my second year
 
 I kind of wanna make a CV here so I don't have to prepare it for an interview, I mean, to apply a job, I have to organize my stuff, what have I done, who I am, and so on. So I wonder why I did't just put it in here, just all info I need, and once I need to apply a job to submit my CV, the only thing I need to do is to copy from this website and then delete something that is not relevant. Easy way to go. So that's it.
 
+## News
+Coming Soon...
+
 ## Education
 __2022-present, XiDian University,__ Master of Applied Statistics
 
@@ -32,4 +35,4 @@ __Libraries and Services:__ PyTorch;
 ## Contact
 __WeChat:__ jiaoqianji1999
 
-__Email:__ jiaoqianji1999@hnu.edu.cn
+__Email:__ [jiaoqianji1999@hnu.edu.cn](jiaoqianji1999@hnu.edu.cn)
