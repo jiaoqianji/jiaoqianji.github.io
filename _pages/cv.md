@@ -11,14 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Engineer, Hunan University, 2017-2021
+* M.S. in Applied Statistics, XiDian University, 2022-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2022: AI Intern
+  * Hong Kong University of Science and Technology
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
