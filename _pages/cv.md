@@ -11,29 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environmental Engineer, Hunan University, 2017-2021
-* M.S. in Applied Statistics, XiDian University, 2022-present
+* B.S. in Environmental Engineer, Hunan University, 2017 - 2021
+* M.S. in Applied Statistics, XiDian University, 2022 - *present*
 
 Work experience
 ======
-* Summer 2022: AI Intern
+* 2023.03 - 2023.07: AI Algorithm Intern
   * Hong Kong University of Science and Technology
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: Process experimental data; Train machine learning models
+  * Supervisor: Prof. Ding He
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023.07 - *present*: Large language model algorithm intern
+  * Wuhan TCL Group Industrial Research Institute Co., Ltd.
+  * Duties included: Data processing
+  * Supervisor: Engineer Li Cheng
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Language: Chinese (Native); English (CET-6)
+* Programming Language: Python;
+* Programming Framework: PyTorch;
 
 Publications
 ======
@@ -55,4 +52,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
